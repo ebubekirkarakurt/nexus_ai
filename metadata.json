@@ -1,0 +1,7 @@
+{
+  "name": "Nexus AI - Document Intelligence",
+  "description": "An advanced AI-powered document editor and assistant for proofing, rewriting, and intelligent collaboration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
